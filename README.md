@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/_devmonk" target="blank"><img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="_devmonk" /></a> </p>
 
-- 🔭 I’m currently working on **A Movie Renting project**
+- 🔭 I’m currently working on **Transportation Service Web App**
 
-- 🌱 I’m currently learning **Node.js using Express**
+- 🌱 I’m currently learning **integrating Mysql in Node**
 
 - 👯 I’m looking to collaborate on **Student Database Project**
 
