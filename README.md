@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kingsley</h1>
 <h3 align="center">A passionate Web developer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/_devmonk" target="blank"><img src="https://drive.google.com/file/d/1UOsBAJA2qbCSBl7CNljHPhGakstn-OCC/view?usp=drivesdk" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_devmonk" target="blank"><img src="https://academicregion.files.wordpress.com/2022/10/screenshot-3_074304.png" /></a> </p>
 
 - 🔭 I’m currently working on **Transportation Service Web App**
 
