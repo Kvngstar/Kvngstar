@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kingsley</h1>
 <h3 align="center">A passionate Web developer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/_devmonk" target="blank"><img src="https://academicregion.files.wordpress.com/2022/10/screenshot-3_074304.png" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_devmonk" target="blank"></a> </p>
 
-- 🔭 I’m currently working on **Transportation Service Web App**
+- 🔭 I’m currently working on **Student Portal Web App**
 
 - 🌱 I’m currently learning **integrating Mysql in Node**
 
 - 👯 I’m looking to collaborate on **Student Database Project**
 
-- 🤝 I’m looking for help with **C#**
+- 🤝 I’m looking for help with **react-native**
 
 - 💬 Ask me about **react**
 
