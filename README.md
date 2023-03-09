@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/_devmonk" target="blank"></a> </p>
 
-- 🔭 I’m currently working on **Student Portal Web App**
-- 😎 Link to my last project **https://mycargenie.herokuapp.com**
+- 🔭 I’m currently working on **micro blogging Web App**
+- 😎 Link to my last project **https://mycargenie.herokuapp.com**, a transportation web app.
 
 - 🌱 I’m currently learning **integrating Mysql in Node**
 
