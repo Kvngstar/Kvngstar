@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://codepen.io/kvngstar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kvngstar" height="30" width="40" /></a>
 <a href="https://twitter.com/_devmonk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_devmonk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kingsley okoronkwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kingsley okoronkwo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kingsley-okoronkwo-3256b5245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kingsley okoronkwo" height="30" width="40" /></a>
 <a href="https://fb.com/kelechukwu.cele" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kelechukwu.cele" height="30" width="40" /></a>
 </p>
 
