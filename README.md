@@ -95,11 +95,9 @@
             <div>
               <img src="https://res.cloudinary.com/dcbqkmjxq/image/upload/v1679284932/pyo35as1ibujenwjynfx.png" alt="" />
             </div>
-           
             <div>
               <img src="https://res.cloudinary.com/dcbqkmjxq/image/upload/v1679284974/oa49ezaswkettjpxssmm.png" alt="" />
-            </div>
-           
+            </div>          
             <div>
               <img src="https://res.cloudinary.com/dcbqkmjxq/image/upload/v1679285024/wd9i48mfjhjcyjewyeql.png" alt="" />
             </div>
