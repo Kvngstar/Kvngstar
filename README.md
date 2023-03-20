@@ -90,10 +90,18 @@
           <h3>Admin DashBoard</h3>
           <div class="display:flex; width:50%;height:auto; justify-content:space-evenly; align-items:center; flex-wrap: wrap; ">
             <div>
-              <img src="" alt="" />
+              <img src="https://res.cloudinary.com/dcbqkmjxq/image/upload/v1679284844/f2mvuzgnzldjj5c7kfnp.png" alt="" />
             </div>
             <div>
-              <img src="" alt="" />
+              <img src="https://res.cloudinary.com/dcbqkmjxq/image/upload/v1679284932/pyo35as1ibujenwjynfx.png" alt="" />
+            </div>
+           
+            <div>
+              <img src="https://res.cloudinary.com/dcbqkmjxq/image/upload/v1679284974/oa49ezaswkettjpxssmm.png" alt="" />
+            </div>
+           
+            <div>
+              <img src="https://res.cloudinary.com/dcbqkmjxq/image/upload/v1679285024/wd9i48mfjhjcyjewyeql.png" alt="" />
             </div>
           </div>
           <h6>features</h6>
