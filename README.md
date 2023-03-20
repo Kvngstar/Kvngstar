@@ -35,10 +35,8 @@
  <h2 style="text-align:center">My Last Project</h2>
       <p>
         In trying to Solve transportation Problems I created this Cargenie
-        Transportation Web App
-      </p>
-
-      <p>Some general amazing features of the Web app are:</p>
+        Transportation Web App.
+      Some general amazing features of the Web app are:</p>
       <ul>
         <li>It is very easy to use and understand</li>
 
