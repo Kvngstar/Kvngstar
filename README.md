@@ -6,11 +6,11 @@
 - 🔭 I’m currently working on **micro blogging Web App**
 - 😎 Link to my last project **https://mycargenie.herokuapp.com**, a transportation web app.
 
-- 🌱 I’m currently learning **integrating Mysql in Node**
+- 🌱 I’m currently learning **Django framework** and **Angular**
 
 - 👯 I’m looking to collaborate on **Student Database Project**
 
-- 🤝 I’m looking for help with **react-native**
+- 🤝 I’m looking for help with **Load balancing**
 
 - 💬 Ask me about **react**
 
