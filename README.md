@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently learning **Django framework** and **Angular**
 
-- 👯 I’m looking to collaborate on **Student Database Project**
-
-- 🤝 I’m looking for help with **Load balancing**
+- 👯 I’m looking to collaborate on **Core backend projects**
 
 - 💬 Ask me about **react**
 
