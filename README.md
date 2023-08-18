@@ -3,16 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/_devmonk" target="blank"></a> </p>
 
+-  I’m a fellow at **ALX SOFTWARE ENGINEERING PROGRAM**
+------------------------------------------------------------------------------------------
+
 - 🔭 I’m currently working on **micro blogging Web App**
 - 😎 Link to my last project **https://mycargenie.herokuapp.com**, a transportation web app.
 
-- 🌱 I’m currently learning **Django framework** and **Angular**
+- 🌱 I’m currently learning **Bash Scripting** and **C Programming**
 
 - 👯 I’m looking to collaborate on **Core backend projects**
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **kingsley019@yahoo.com**
+- 📫 How to reach me **kingsley019@yahoo.com / kvngsley019@gmail.com**
 
 - ⚡ Fun fact **I am happy working with other developers**
 
