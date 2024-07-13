@@ -3,10 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/_devmonk" target="blank"></a> </p>
 
--  I’m a fellow at **ALX SOFTWARE ENGINEERING PROGRAM**
+-  I’m a fellow at **ALX SOFTWARE ENGINEERING PROGRAM** and **HNG Intern**
 ------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on **micro blogging Web App**
+- 🔭 I’m currently working on **social media application**
 - 😎 Link to my last project **https://mycargenie.herokuapp.com**, a transportation web app.
 
 - 🌱 I’m currently learning **Bash Scripting** and **C Programming**
@@ -30,25 +30,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
- <h2 style="text-align:center">My Last Project</h2>
-      <p>
-        In trying to Solve transportation Problems I created this Cargenie
-        Transportation Web App.
-      Some general amazing features of the Web app are:</p>
-      <ul>
-        <li>It is very easy to use and understand</li>
-        <li>The UI is user-friendly</li>
-        <li>It is cost-effective</li>
-        <li>It can be easily maintained by few developer</li>
-      </ul>
-      <div>
-        <div >
-          <h3>Home Page</h3>
-          <div class="display:flex; width:50%;height:auto; justify-content:space-evenly; align-items:center; flex-wrap: wrap; ">
-            <div>
-              <img src="https://res.cloudinary.com/dcbqkmjxq/image/upload/v1679284160/qgbd1myqohsoblglnf5u.png" alt=homepagae"" />
-            </div>
-            <div>
-              <img src="The Image is at https://res.cloudinary.com/dcbqkmjxq/image/upload/v1679284244/eimt48unnxnbezxhho5c.png" alt="" />
-            </div>
-          </div>
+
