@@ -6,7 +6,7 @@
 -  I’m a fellow at **ALX SOFTWARE ENGINEERING PROGRAM** and **HNG Intern**
 ------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on **social media application**
+- 🔭 I’m currently working on <a href="https://mevoyage.netlify.app/" target="blank">**social media application**</a>
 - 😎 Link to my last project **https://mycargenie.herokuapp.com**, a transportation web app.
 
 - 🌱 I’m currently learning **Bash Scripting** and **C Programming**
