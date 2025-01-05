@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/_devmonk" target="blank"></a> </p>
 
--  I’m a fellow at **ALX SOFTWARE ENGINEERING PROGRAM** and **HNG Intern**
+-  I’m a fellow at **ALX SOFTWARE ENGINEERING PROGRAM**
 ------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on <a href="https://mevoyage.netlify.app/" target="blank">**social media application**</a>
 - 😎 Link to my last project **https://mycargenie.herokuapp.com**, a transportation web app.
 
-- 🌱 I’m currently learning **Bash Scripting** and **C Programming**
+- 🌱 I’m currently learning **Devops** and **Django**
 
 - 👯 I’m looking to collaborate on **Core backend projects**
 
