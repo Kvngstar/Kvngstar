@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_devmonk" target="blank"></a> </p>
 
--  I’m a fellow at **ALX SOFTWARE ENGINEERING PROGRAM**
+-  Graduate of **ALX SOFTWARE ENGINEERING** Holberton School
 ------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on <a href="https://mevoyage.netlify.app/" target="blank">**social media application**</a>
