@@ -6,6 +6,7 @@
 -  Graduate of **ALX SOFTWARE ENGINEERING** Holberton School
 ------------------------------------------------------------------------------------------
 
+- 🔭 Check my <a href="https://devmonky.netlify.app/" target="blank">**Portfolio**</a>
 - 🔭 I’m currently working on <a href="#" target="blank">**an airbnb application**</a>
 - 😎 Link to my last project **https://mebundle.netlify.app/**, a social media application.
 
