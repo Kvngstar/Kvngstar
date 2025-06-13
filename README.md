@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kingsley</h1>
-<h3 align="center">A passionate Web developer from Nigeria</h3>
+<h3 align="center">A Software developer from Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/_devmonk" target="blank"></a> </p>
 
