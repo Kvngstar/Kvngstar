@@ -6,14 +6,14 @@
 -  Graduate of **ALX SOFTWARE ENGINEERING** Holberton School
 ------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on <a href="https://mevoyage.netlify.app/" target="blank">**social media application**</a>
-- 😎 Link to my last project **https://mycargenie.herokuapp.com**, a transportation web app.
+- 🔭 I’m currently working on <a href="#" target="blank">**an airbnb application**</a>
+- 😎 Link to my last project **https://mebundle.netlify.app/**, a social media application.
 
 - 🌱 I’m currently learning **Devops** and **Django**
 
 - 👯 I’m looking to collaborate on **Core backend projects**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **javascript, python, next**
 
 - 📫 How to reach me **kingsley019@yahoo.com / kvngsley019@gmail.com**
 
